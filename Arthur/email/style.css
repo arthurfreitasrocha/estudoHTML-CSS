@@ -1,0 +1,66 @@
+html{
+    background-image: url("fundo whatsapp 2.jpg");
+    background-size: cover;
+}
+
+/* ===== CLASSES E IDS ===== */
+
+/* LOGO WTIC */
+#logo_wtic{
+    display: grid;
+
+    margin: 50px auto 0px;
+}
+
+#wtic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+    text-align: center;
+}
+
+/* PARABÉNS - MINICURSO INSCRITO */
+#parabens{
+    background-color: whitesmoke;
+
+    margin: 70px 550px 0px;
+    padding: 20px 20px;
+
+    font-family: sans-serif;
+    font-size: 40px;
+
+    text-align: center;
+}
+
+#logo_minicurso{
+    display: grid;
+
+    margin: 30px auto 10px;
+
+    border-radius: 50%;
+    border: solid 5px black;
+}
+
+#minicurso_inscrito{
+    background-color: whitesmoke;
+
+    margin: 0px 550px 95px;
+    padding: 20px 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+    text-align: justify;
+}
+
+
+
+/* CONTEÚDO E-MAIL */
+#conteudo_email{
+    background-color: white;
+
+    margin: 70px 550px 95px;
+    padding: 20px 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
