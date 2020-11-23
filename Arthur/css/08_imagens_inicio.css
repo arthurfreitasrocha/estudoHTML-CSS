@@ -1,0 +1,22 @@
+body{
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 700px;
+    margin: auto;
+    background-image: url(/Arthur/imagens/bg.jpg);
+    background-attachment: fixed; /* Impede que a imagem "scrolle" de acordo com a página */
+    background-size: cover; /* Adapta a imagem de acordo com a página */
+    background-position: right bottom; /* Valoriza os cantos da imagem que você informar (right, left, top, bottom) */
+}
+
+p{
+    line-height: 1.5;
+}
+
+.img_html{
+    float: left;
+}
+
+.img_css{
+    float: right;
+}
