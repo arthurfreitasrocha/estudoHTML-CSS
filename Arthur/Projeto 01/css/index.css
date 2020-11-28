@@ -52,14 +52,14 @@ body{
 
 .menu li a{
     display: block;
-    background-color: rgba(70, 70, 70, 0.5);
+    background-color: rgba(235, 0, 0, 0.1);
     padding: 15px 15px;
     text-decoration: none;
     color: white
 }
 
 .menu li a:hover{
-    background-color: rgba(34, 34, 34, 0.5);
+    background-color: rgba(235, 0, 0, 0.5);
 }
 
 main{
