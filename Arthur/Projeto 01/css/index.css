@@ -9,7 +9,7 @@ body{
     height: 800px;
     background-position: right center;
     background-size: cover;
-    border-top: solid 1px rgba(0, 0, 0, 0);
+    border-top: solid 1px transparent;
 }
 
 .hero-content{
