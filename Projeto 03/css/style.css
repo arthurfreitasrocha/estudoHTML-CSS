@@ -1,0 +1,54 @@
+html{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+
+
+/* Header */
+
+header{
+    background-image:url("/images/bg.jpg");
+    padding: 10rem 5rem;
+    position: absolute;
+    width: 50rem;
+    height: 100%;
+}
+
+header a{   
+    width: 100%;
+    display: inline-block;
+    text-align: right;
+}
+
+header img{
+    text-align: right;
+    border-radius: 50%;
+}
+
+header h1{
+    display: inline-block;
+    width: 100%;
+    font-weight: normal;
+    font-size: 2rem;
+    text-align: right;
+    line-height: 3.5rem;
+    opacity: 0.8;
+    color: white;
+}
+
+
+
+/* Main */
+
+main{
+    position: absolute;
+    left: 60rem;
+    width: 68%;
+}
+
+.bloco1{
+    background-color: green;
+}
+
